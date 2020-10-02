@@ -1,6 +1,4 @@
 
-package dbl;
-
 public class DBL {
     public static class Node{
         int data;
