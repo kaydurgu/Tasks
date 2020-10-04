@@ -1,5 +1,3 @@
-
-package stack;
 public class Queue<T>{
    public class Node<T>{
      T data;
