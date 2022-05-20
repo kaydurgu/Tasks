@@ -190,3 +190,4 @@ int32_t main() {
   SuffixArray sa(s);
   for (int i = 0; i < s.size(); i++) cout << sa.sa[i] << '\n';
   return 0;
+}
